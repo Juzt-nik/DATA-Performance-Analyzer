@@ -66,7 +66,7 @@ flowchart LR
 ```
 ### Block Architecture Diagram
 
-![DATA PERFORMANCE ANALYZER - Block Architecture](A:\DATA_Performance_Analyzer\public\ESP32 Wi‑Fi Performance Flowchart.png)
+![DATA PERFORMANCE ANALYZER - Block Architecture](public\block_diagram.png)
 
 *Figure: System architecture showing the client, ESP32 access point, performance processing, dashboard, OLED and LED.*
 
@@ -108,7 +108,7 @@ The assumed wiring and display settings must be checked against your actual boar
 
 ### Circuit Diagram
 
-![DATA PERFORMANCE ANALYZER - Circuit Diagram](A:\DATA_Performance_Analyzer\public\ESP32 Wi‑Fi Analyzer Circuit Diagram.png)
+![DATA PERFORMANCE ANALYZER - Circuit Diagram](public\circuit_diagram.png)
 
 *Figure: ESP32 wiring for the OLED display, status LED, resistor and USB power.*
 
